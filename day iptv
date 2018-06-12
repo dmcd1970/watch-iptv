@@ -1,13 +1,12 @@
 #EXTM3U
-#EXTINF:-1,EN: Sky Living
-http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/35.ts
-#EXTINF:-1,EN: Comedy Central
-http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/31.ts
-#EXTINF:-1,EN: Crime Investigation
-http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/36.ts
-#EXTINF:-1,EN: Boomerang
-http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/63.ts
-#EXTINF:-1,EN: Yesterday
-http://gootvonline.net:8585/live/is2356/Ds2580Klctnp5/4.ts
-
-
+#EXTINF:-1,=================ENTERTAINMENT-UK ================
+#EXTINF:-1,=========PPV BOXING=========
+#EXTINF:-1,================SPORTS UK=================
+#EXTINF:-1,============ VIP SPORTS ===========
+#EXTINF:-1,===============BEIN SPORTS====================
+#EXTINF:-1,===============SKY MOVIES -UK ===============
+#EXTINF:-1,==============DOCUMENTRY UK===============
+#EXTINF:-1,================= OSN CHANNEL ===============
+#EXTINF:-1,=============== CARTOON -UK===============
+#EXTINF:-1,===============- USA ===============
+#EXTINF:-1,============VOD=================
