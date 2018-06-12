@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1,=================ENTERTAINMENT-UK ================
-http://217.182.192.226:20000/live/dmcd/ebay1/63.ts
+http://217.182.192.226:20000/live/dmcd70/ebay1/63.ts
 #EXTINF:-1,BBC 1 - UK
-http://217.182.192.226:20000/live/dmcd/ebay1/604.ts
+http://217.182.192.226:20000/live/dmcd70/ebay1/604.ts
 #EXTINF:-1,bbc 1 hd
-http://217.182.192.226:20000/live/dmcd/ebay1/11.ts
+http://217.182.192.226:20000/live/dmcd70/ebay1/11.ts
 #EXTINF:-1,BBC 2 HD
-http://217.182.192.226:20000/live/dmcd/ebay1/12.ts
+http://217.182.192.226:20000/live/dmcd70/ebay1/12.ts
 #EXTINF:-1,BBC 2 - UK
-http://217.182.192.226:20000/live/dmcd/ebay1/605.ts
+http://217.182.192.226:20000/live/dmcd70/ebay1/605.ts
 #EXTINF:-1,BBC 3 - UK (L)
-http://217.182.192.226:20000/live/dmcd/ebay1/617.ts
+http://217.182.192.226:20000/live/dmcd70/ebay1/617.ts
 #EXTINF:-1,BBC 4 HD
-http://217.182.192.226:20000/live/dmcd/ebay1/13.ts
+http://217.182.192.226:20000/live/dmcd70/ebay1/13.ts
 #EXTINF:-1,ITV 1 - UK
-http://217.182.192.226:20000/live/dmcd/ebay1/638.ts
+http://217.182.192.226:20000/live/dmcd70/ebay1/638.ts
 #EXTINF:-1,ITV 1
 http://217.182.192.226:20000/live/dmcd70/ebay1/18.ts
 #EXTINF:-1,ITV 2 (K)
