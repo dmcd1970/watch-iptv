@@ -1,12 +1,422 @@
 #EXTM3U
-#EXTINF:-1,=================ENTERTAINMENT-UK ================
-#EXTINF:-1,=========PPV BOXING=========
-#EXTINF:-1,================SPORTS UK=================
-#EXTINF:-1,============ VIP SPORTS ===========
-#EXTINF:-1,===============BEIN SPORTS====================
-#EXTINF:-1,===============SKY MOVIES -UK ===============
-#EXTINF:-1,==============DOCUMENTRY UK===============
-#EXTINF:-1,================= OSN CHANNEL ===============
-#EXTINF:-1,=============== CARTOON -UK===============
-#EXTINF:-1,===============- USA ===============
-#EXTINF:-1,============VOD=================
+
+
+
+
+
+#EXTINF:-1,VH1 Classic
+http://178.193.251.165:9000/play/a00a
+#EXTINF:-1,VH1
+http://178.193.251.165:9000/play/a01b
+
+#EXTINF:-1,Motorvision
+http://178.193.251.165:9000/play/a00f
+#EXTINF:-1,Eurosport 1 HD
+http://178.193.251.165:9000/play/a08b
+#EXTINF:-1,Eurosport 2
+http://178.193.251.165:9000/play/a07h
+
+#EXTINF:-1,UK-Sky_Sports-News
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2223.ts
+#EXTINF:-1,UK: Sky Sports News HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/874.ts
+#EXTINF:-1,UK-Sports(main events) B
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2971.ts
+#EXTINF:-1,UK-Sports(cricket)
+http://ultimeiptv.net:8000/live/karim2017/karim2017/421.ts
+#EXTINF:-1,UK-UK-Sports(cricket) B
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2972.ts
+#EXTINF:-1,UK-Sports(Action)
+http://ultimeiptv.net:8000/live/karim2017/karim2017/420.ts
+#EXTINF:-1,UK-Sports(Action) B
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2973.ts
+#EXTINF:-1,UK-Sports(golf)
+http://ultimeiptv.net:8000/live/karim2017/karim2017/419.ts
+#EXTINF:-1,UK-Sports(golf) b
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2974.ts
+#EXTINF:-1,UK-Sport(premier league)
+http://ultimeiptv.net:8000/live/karim2017/karim2017/418.ts
+#EXTINF:-1,UK-Sports_Football
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2228.ts
+#EXTINF:-1,UK-sky_sport_F1
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2014.ts
+#EXTINF:-1,UK-Eir_Sport_1
+http://ultimeiptv.net:8000/live/karim2017/karim2017/3118.ts
+#EXTINF:-1,UK-Eir_Sport_2
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2308.ts
+#EXTINF:-1,UK-Premier Sports
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2153.ts
+#EXTINF:-1,UK-Racing
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2016.ts
+#EXTINF:-1,UK-Box_Nation
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1595.ts
+#EXTINF:-1,UK-Sky_Box_Office(when match)
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2275.ts
+#EXTINF:-1,UK: Setanta Ireland
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1504.ts
+#EXTINF:-1,UK-Sport mix
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1468.ts
+#EXTINF:-1,UK-Sports_Arena
+http://ultimeiptv.net:8000/live/karim2017/karim2017/4875.ts
+#EXTINF:-1,UK-BT_Sport1 HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1308.ts
+#EXTINF:-1,UK-BT_Sport2 HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1309.ts
+#EXTINF:-1,UK-BT Sport 3 HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/6134.ts
+#EXTINF:-1,UK-BT Sport 3
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2093.ts
+#EXTINF:-1,UK-BT-Espn
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1594.ts
+#EXTINF:-1,UK-Eurosport1_HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/3830.ts
+#EXTINF:-1,UK-Eurosport2_HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/3829.ts
+#EXTINF:-1,UK-Liverpool_FC
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2209.ts
+#EXTINF:-1,UK-AtThe-Races
+http://ultimeiptv.net:8000/live/karim2017/karim2017/396.ts
+#EXTINF:-1,UK-Motors_TV
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2216.ts
+#EXTINF:-1,spt-Bs Sport
+http://ultimeiptv.net:8000/live/karim2017/karim2017/657.ts
+#EXTINF:-1,US-Fox SPORT1
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2638.ts
+#EXTINF:-1,US-TSN Sport 1
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1257.ts
+#EXTINF:-1,US-TSN 2
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2642.ts
+#EXTINF:-1,US-TSN 3
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2641.ts
+#EXTINF:-1,US-TSN 4
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2640.ts
+#EXTINF:-1,US-TSN 5
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2639.ts
+#EXTINF:-1,US-ESPN
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2730.ts
+#EXTINF:-1,USA:NFL_now
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2078.ts
+#EXTINF:-1,USA-NBCSN sport
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2116.ts
+#EXTINF:-1,US-MSNBC
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1625.ts
+#EXTINF:-1,USA-NBA
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2385.ts
+#EXTINF:-1,UK-True_M1
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2203.ts
+#EXTINF:-1,UK: True Movies 2
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2202.ts
+#EXTINF:-1,UK-MUTV
+http://ultimeiptv.net:8000/live/karim2017/karim2017/379.ts
+#EXTINF:-1,UK-Pick
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2225.ts
+#EXTINF:-1,UK-GOLD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2220.ts
+#EXTINF:-1,UK-Dave
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2213.ts
+#EXTINF:-1,UK-E4
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2210.ts
+#EXTINF:-1,UK-Watch
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2204.ts
+#EXTINF:-1,UK-BBC1
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1302.ts
+#EXTINF:-1,UK-BBC2
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1303.ts
+#EXTINF:-1,UK-BBC3_HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1920.ts
+#EXTINF:-1,UK-CBBC
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1921.ts
+#EXTINF:-1,UK-SKY-NEWS
+http://ultimeiptv.net:8000/live/karim2017/karim2017/417.ts
+#EXTINF:-1,UK_RT_news
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1538.ts
+#EXTINF:-1,UK_EuroNews(En)
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1539.ts
+#EXTINF:-1,UK-RT_Document
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1911.ts
+#EXTINF:-1,UK-CHANNEL4
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1922.ts
+#EXTINF:-1,UK-CHANNEL5
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1923.ts
+#EXTINF:-1,UK-Select_HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2218.ts
+#EXTINF:-1,UK-SCI-FI
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2221.ts
+#EXTINF:-1,UK-Premiere_HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2219.ts
+#EXTINF:-1,UK-Sky_Greats
+http://ultimeiptv.net:8000/live/karim2017/karim2017/436.ts
+#EXTINF:-1,UK-Sky-LivingIt
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1610.ts
+#EXTINF:-1,UK-Crime & Inv
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1619.ts
+#EXTINF:-1,UK-Cinema_Thriller
+http://ultimeiptv.net:8000/live/karim2017/karim2017/213.ts
+#EXTINF:-1,UK-Sky_Premiere
+http://ultimeiptv.net:8000/live/karim2017/karim2017/218.ts
+#EXTINF:-1,UK-Sky_Chelsea
+http://ultimeiptv.net:8000/live/karim2017/karim2017/426.ts
+#EXTINF:-1,UK-SKY-Syfy
+http://ultimeiptv.net:8000/live/karim2017/karim2017/425.ts
+#EXTINF:-1,UK-RTE1
+http://ultimeiptv.net:8000/live/karim2017/karim2017/427.ts
+#EXTINF:-1,UK-TG4
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2975.ts
+#EXTINF:-1,UK-BBC news
+http://ultimeiptv.net:8000/live/karim2017/karim2017/774.ts
+#EXTINF:-1,UK-RTE TWO
+http://ultimeiptv.net:8000/live/karim2017/karim2017/3315.ts
+#EXTINF:-1,UK-RTE_news
+http://ultimeiptv.net:8000/live/karim2017/karim2017/275.ts
+#EXTINF:-1,UK-Atlantic
+http://ultimeiptv.net:8000/live/karim2017/karim2017/422.ts
+#EXTINF:-1,UK-Alibi
+http://ultimeiptv.net:8000/live/karim2017/karim2017/219.ts
+#EXTINF:-1,UK-Sky_Arts
+http://ultimeiptv.net:8000/live/karim2017/karim2017/217.ts
+#EXTINF:-1,UK-Sky_Family
+http://ultimeiptv.net:8000/live/karim2017/karim2017/216.ts
+#EXTINF:-1,UK-Drama_Rom
+http://ultimeiptv.net:8000/live/karim2017/karim2017/215.ts
+#EXTINF:-1,UK-Sky-Mv_Disney
+http://ultimeiptv.net:8000/live/karim2017/karim2017/214.ts
+#EXTINF:-1,UK-Sky_Comedy
+http://ultimeiptv.net:8000/live/karim2017/karim2017/212.ts
+#EXTINF:-1,UK-Sky_Action
+http://ultimeiptv.net:8000/live/karim2017/karim2017/211.ts
+#EXTINF:-1,UK-COMEDY_CENTRAL
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2151.ts
+#EXTINF:-1,UK-sky_one
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1865.ts
+#EXTINF:-1,UK-sky two
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2394.ts
+#EXTINF:-1,UK-Quest
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2033.ts
+#EXTINF:-1,UK-E!
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2032.ts
+#EXTINF:-1,UK-Disc_History
+http://ultimeiptv.net:8000/live/karim2017/karim2017/381.ts
+#EXTINF:-1,UK-Discovery-Sc
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2211.ts
+#EXTINF:-1,UK-Discovery_Turbo
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2017.ts
+#EXTINF:-1,UK-Discovery_CH
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2018.ts
+#EXTINF:-1,UK-Animal_Planet
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2015.ts
+#EXTINF:-1,UK-Nat-Geo
+http://ultimeiptv.net:8000/live/karim2017/karim2017/392.ts
+#EXTINF:-1,UK-NAT-GEO-WILD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/393.ts
+#EXTINF:-1,UK-FOX-News
+http://ultimeiptv.net:8000/live/karim2017/karim2017/389.ts
+#EXTINF:-1,UK-ScFi-Horror
+http://ultimeiptv.net:8000/live/karim2017/karim2017/233.ts
+#EXTINF:-1,UK-H2
+http://ultimeiptv.net:8000/live/karim2017/karim2017/248.ts
+#EXTINF:-1,UK-CBS_Reality
+http://ultimeiptv.net:8000/live/karim2017/karim2017/230.ts
+#EXTINF:-1,UK-CBS Drama
+http://ultimeiptv.net:8000/live/karim2017/karim2017/229.ts
+#EXTINF:-1,UK-BIKE
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2150.ts
+#EXTINF:-1,UK-BET
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2100.ts
+#EXTINF:-1,UK-Baby_TV
+http://ultimeiptv.net:8000/live/karim2017/karim2017/3583.ts
+#EXTINF:-1,UK-Nick Toons
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2212.ts
+#EXTINF:-1,UK-Nick_JR
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2215.ts
+#EXTINF:-1,UK-BOOMERANG
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2031.ts
+#EXTINF:-1,UK-Disney_XD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/384.ts
+#EXTINF:-1,UK-Disney_Junior+1
+http://ultimeiptv.net:8000/live/karim2017/karim2017/378.ts
+#EXTINF:-1,UK-Disney_Channel
+http://ultimeiptv.net:8000/live/karim2017/karim2017/383.ts
+#EXTINF:-1,UK:Nickelodeon
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1587.ts
+#EXTINF:-1,UK_Sky_Cartoon_Network
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1589.ts
+#EXTINF:-1,UK-Sky_fox
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2489.ts
+#EXTINF:-1,UK-NICK JR.TOO
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2486.ts
+#EXTINF:-1,UK-3E
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2488.ts
+#EXTINF:-1,UK-Capital_TV(music)
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1615.ts
+#EXTINF:-1,UK-Food Network
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2490.ts
+#EXTINF:-1,UK-5USA
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2085.ts
+#EXTINF:-1,UK-ITV1_HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/249.ts
+#EXTINF:-1,UK-ITV2
+http://ultimeiptv.net:8000/live/karim2017/karim2017/234.ts
+#EXTINF:-1,UK-ITV3_HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/236.ts
+#EXTINF:-1,UK-ITV4
+http://ultimeiptv.net:8000/live/karim2017/karim2017/235.ts
+#EXTINF:-1,UK-Itv_Be
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2224.ts
+#EXTINF:-1,UK-More4
+http://ultimeiptv.net:8000/live/karim2017/karim2017/358.ts
+#EXTINF:-1,Music_4
+http://ultimeiptv.net:8000/live/karim2017/karim2017/3664.ts
+#EXTINF:-1,Music_MTV_Rock
+http://ultimeiptv.net:8000/live/karim2017/karim2017/3674.ts
+#EXTINF:-1,Music_MTV_live
+http://ultimeiptv.net:8000/live/karim2017/karim2017/3673.ts
+#EXTINF:-1,Music_MTV_hits
+http://ultimeiptv.net:8000/live/karim2017/karim2017/3675.ts
+#EXTINF:-1,Music_MTV_BASE
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2398.ts
+#EXTINF:-1,Music_clubbing_tv
+http://ultimeiptv.net:8000/live/karim2017/karim2017/3670.ts
+#EXTINF:-1,Music_Hit
+http://ultimeiptv.net:8000/live/karim2017/karim2017/3665.ts
+#EXTINF:-1,Music_ACB
+http://ultimeiptv.net:8000/live/karim2017/karim2017/3672.ts
+#EXTINF:-1,Music_MM_HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/3669.ts
+#EXTINF:-1,USA-CNN_Live
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2806.ts
+#EXTINF:-1,US-CNN_live(BK)
+http://ultimeiptv.net:8000/live/karim2017/karim2017/3657.ts
+#EXTINF:-1,USA-ABC_News
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1063.ts
+#EXTINF:-1,USA-BBC-News
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2071.ts
+#EXTINF:-1,USA-Bloomberg
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1304.ts
+#EXTINF:-1,USA-Fox23_News
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1910.ts
+#EXTINF:-1,USA_Al-jazeera
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1536.ts
+#EXTINF:-1,US-Bravo HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2732.ts
+#EXTINF:-1,USA-AMC HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2113.ts
+#EXTINF:-1,Usa-COZI_TV
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2637.ts
+#EXTINF:-1,US-CBSN
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2737.ts
+#EXTINF:-1,USA-HBO
+http://ultimeiptv.net:8000/live/karim2017/karim2017/827.ts
+#EXTINF:-1,USA-HBO2
+http://ultimeiptv.net:8000/live/karim2017/karim2017/3871.ts
+#EXTINF:-1,USA-Cinemax_HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1261.ts
+#EXTINF:-1,USA:Cinemax
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2084.ts
+#EXTINF:-1,USA-Show_time
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2101.ts
+#EXTINF:-1,CA-hallmark
+http://ultimeiptv.net:8000/live/karim2017/karim2017/3671.ts
+#EXTINF:-1,CA-Bravo
+http://ultimeiptv.net:8000/live/karim2017/karim2017/3667.ts
+#EXTINF:-1,USA-Hit TV(fasion)
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2115.ts
+#EXTINF:-1,USA–CBS47
+http://ultimeiptv.net:8000/live/karim2017/karim2017/1240.ts
+#EXTINF:-1,US_Bein_USA
+http://ultimeiptv.net:8000/live/karim2017/karim2017/3676.ts
+#EXTINF:-1,US-USA Network
+http://ultimeiptv.net:8000/live/karim2017/karim2017/4122.ts
+#EXTINF:-1,USA:FOOD network
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2087.ts
+#EXTINF:-1,USA-CBN_HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2097.ts
+#EXTINF:-1,USA-QVC HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2114.ts
+#EXTINF:-1,USA-Paramount net
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2099.ts
+#EXTINF:-1,USA-Florida_Channel
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2102.ts
+#EXTINF:-1,USA-Fox Sports 2
+http://ultimeiptv.net:8000/live/karim2017/karim2017/2103.ts
+#EXTINF:-1,US_Cinema 01
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5526.ts
+#EXTINF:-1,US_Cinema 02
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5525.ts
+#EXTINF:-1,US_Cinema 03
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5524.ts
+#EXTINF:-1,US_Cinema 04
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5523.ts
+#EXTINF:-1,US_Cinema 05
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5522.ts
+#EXTINF:-1,US_Cinema 06
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5521.ts
+#EXTINF:-1,US_Cinema 07
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5520.ts
+#EXTINF:-1,US_Cinema 08
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5519.ts
+#EXTINF:-1,US_Cinema 09
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5518.ts
+#EXTINF:-1,US_Cinema 10
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5517.ts
+#EXTINF:-1,US_Cinema 11
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5516.ts
+#EXTINF:-1,US_Cinema 12
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5515.ts
+#EXTINF:-1,US_Cinema 13
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5514.ts
+#EXTINF:-1,US_Cinema 14
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5513.ts
+#EXTINF:-1,US_Cinema 15
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5512.ts
+#EXTINF:-1,US_Cinema 16
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5511.ts
+#EXTINF:-1,US_Cinema 17
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5510.ts
+#EXTINF:-1,US_Cinema 18
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5509.ts
+#EXTINF:-1,US_Cinema 19
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5508.ts
+#EXTINF:-1,US_Cinema 20
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5507.ts
+#EXTINF:-1,US_Cinema 21
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5506.ts
+#EXTINF:-1,US_Cinema 22
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5505.ts
+#EXTINF:-1,US_Cinema 23
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5504.ts
+#EXTINF:-1,US_Cinema 24
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5503.ts
+#EXTINF:-1,US_Cinema 25
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5502.ts
+#EXTINF:-1,US_Cinema 26
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5501.ts
+#EXTINF:-1,US_Cinema 27
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5500.ts
+#EXTINF:-1,US_Cinema 28
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5499.ts
+#EXTINF:-1,US_Cinema 29
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5498.ts
+#EXTINF:-1,US_Cinema 30
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5497.ts
+#EXTINF:-1,US_Cinemax Action East HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5485.ts
+#EXTINF:-1,US_Cinemax East HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5484.ts
+#EXTINF:-1,US_HBO 2 West HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5481.ts
+#EXTINF:-1,US_HBO Plus West HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5480.ts
+#EXTINF:-1,US_HBO Signature HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5479.ts
+#EXTINF:-1,US_IndiePlex HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5478.ts
+#EXTINF:-1,US_MoreMax HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5477.ts
+#EXTINF:-1,US_MovieMax HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5476.ts
+#EXTINF:-1,US_MoviePlex HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5475.ts
+#EXTINF:-1,US_OuterMax HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5474.ts
+#EXTINF:-1,US_RetroPlex HD
+http://ultimeiptv.net:8000/live/karim2017/karim2017/5473.ts
